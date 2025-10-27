@@ -93,7 +93,7 @@ The insights and recommendations from this project aim to guide Beta Marketplace
 **Author:** Odey Peace Ogeyi  
 **Role:** Data Analyst | Power BI Developer  
 **Tools Used:** Power BI, Microsoft Excel, DAX  
-**Contact:** [Your LinkedIn Profile or Email Address]  
+**Contact:** odeypeace20@gmail.com  
 
 ---
 
