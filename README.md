@@ -47,7 +47,7 @@ The Power BI dashboard is divided into four major analytical sections:
 - ![Beta-Marketplace-Sales-Analysis](Customer_Insights.png)
 - [Beta-Marketplace-Sales-Analysis]([Beta-Mar)
 - [Beta-Marketplace-Sales-Analysis](Customer_Insights.png)
-- [Beta-Marketplace-Sales-Analysis](Customer_Insights.png)
+- [Beta-Marketplace-Sales-Analysis](Regional_Analysis.png)
 - ![Beta-Marketplace-Sales-Analysis]_(Fiancial_Overview)
 - ![Beta-Marketplace-Sales-Analysis](Product Performance.png)  
 - ![Beta-Marketplace-Sales-Analysis](Regional Analysis.png)  
