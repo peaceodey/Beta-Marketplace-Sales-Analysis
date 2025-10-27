@@ -36,18 +36,21 @@ The analysis seeks to address the following key business questions:
 
 The Power BI dashboard is divided into four major analytical sections:  
 
-1. **Sales Overview:** Monthly sales trends and sales/profit analysis across product categories.  
-2. **Regional Insights:** Revenue and profit by region, top-performing states, and category preferences by region.  
+1. **Financial Overview:** Monthly sales trends and sales/profit analysis across product categories.  
+2. **Regional Sales Insights:** Revenue and profit by region, top-performing states, and category preferences by region.  
 3. **Customer Insights:** Gender distribution, average order value by gender, and top 10 customers by purchase volume.  
-4. **Product Performance:** Top 5 selling products, revenue and profit margin by category, and analysis of underperforming categories.  
+4. **Product Analysis:** Top 5 selling products, revenue, and profit margin by category, and analysis of underperforming categories.  
 
 ### Dashboard Snapshots  
-*(Replace image paths with GitHub URLs after upload)*  
 
+ 
 - ![Beta-Marketplace-Sales-Analysis](Customer_Insights.png)
-- [Beta-Marketplace-Sales-Analysis](Product_Performance.png)
-- [Beta-Marketplace-Sales-Analysis](Financial_Overview.png)
-- [Beta-Marketplace-Sales-Analysis](Regional_Analysis.png)
+  
+- ![Beta-Marketplace-Sales-Analysis](Product_Performance.png)
+  
+- ![Beta-Marketplace-Sales-Analysis](Financial_Overview.png)
+  
+- ![Beta-Marketplace-Sales-Analysis](Regional_Analysis.png)
 
 ---
 
