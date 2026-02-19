@@ -6,7 +6,7 @@ This project presents a comprehensive analysis of **Beta Marketplace**, an onlin
 
 The dashboard is designed to support strategic decision-making by identifying high-performing areas, revealing underperforming segments, and uncovering opportunities for business growth.  
 
----
+
 
 ##  Business Objectives and Questions  
 The analysis seeks to address the following key business questions:  
@@ -17,7 +17,7 @@ The analysis seeks to address the following key business questions:
 4. Which product categories or subcategories are underperforming?  
 5. How can marketing, supply, and sales strategies be optimized for better performance?  
 
----
+
 
 ##  Tools and Methodology  
 
@@ -30,7 +30,6 @@ The analysis seeks to address the following key business questions:
 - **KPI Development:** Created DAX measures for Total Sales, Total Profit, Profit Margin, Average Order Value, and Total Quantity Sold.  
 - **Dashboard Design:** Developed interactive and visually driven dashboards that allow stakeholders to explore key performance metrics and insights.  
 
----
 
 ##  Dashboard Overview  
 
@@ -52,7 +51,6 @@ The Power BI dashboard is divided into four major analytical sections:
   
 - ![Beta-Marketplace-Sales-Analysis](Regional_Analysis.png)
 
----
 
 ##  Key Insights  
 
@@ -62,7 +60,6 @@ The Power BI dashboard is divided into four major analytical sections:
 - **Product Performance:** The top 5 products significantly outperformed others, while **electronics, beverages, and fashion** categories exhibited weak performance.  
 - **Customer Value:** A limited number of high-value customers contributed substantially to total sales, emphasizing the importance of retention strategies.  
 
----
 
 ##  Recommendations  
 
@@ -78,7 +75,6 @@ The Power BI dashboard is divided into four major analytical sections:
 4. **Leverage High-Value Customers**  
    - Develop a customer retention strategy through loyalty programs, referral bonuses, and personalized offers.  
 
----
 
 ##  Conclusion  
 
@@ -87,7 +83,7 @@ By integrating key performance indicators across sales, products, customers, and
 
 The insights and recommendations from this project aim to guide Beta Marketplace toward improved sales performance, enhanced customer satisfaction, and sustainable business growth.  
 
----
+
 
 ## Appendix  
 **Author:** Odey Peace Ogeyi  
@@ -95,5 +91,5 @@ The insights and recommendations from this project aim to guide Beta Marketplace
 **Tools Used:** Power BI, Microsoft Excel, DAX  
 **Contact:** odeypeace20@gmail.com  
 
----
+
 
